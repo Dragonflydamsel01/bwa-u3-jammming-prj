@@ -1,0 +1,8 @@
+Hello, 
+
+I wasn't able to get far in troubleshooting. I kept running into trouble with surge, and it was like pulling teeth to get help deploying. 
+I currently have an error about the security of the site:
+
+main.fe469fd4.js:1 Error during service worker registration: DOMException: Only secure origins are allowed
+
+I can't do anything about that, and I've been delayed long enough. Let me know what I was supposed to do to avoid this. 
